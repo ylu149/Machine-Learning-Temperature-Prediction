@@ -30,3 +30,6 @@ The model's predictions are utilized for a strategic approach on the Kalshi Demo
 ## Installation and Usage
 
 Simply open the Google Collab notebook, and follow the instructions for loading the training data. 
+
+
+## Please do not use this algorithm to bet with real money. 
