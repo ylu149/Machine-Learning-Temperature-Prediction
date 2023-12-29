@@ -31,5 +31,4 @@ The model's predictions are utilized for a strategic approach on the Kalshi Demo
 
 Simply open the Google Collab notebook, and follow the instructions for loading the training data. 
 
-
-## Please Note That Utilizing This Algorithm for Actual Betting is not Recommended. I do not Assume any Responsibility for the Consequences or Outcomes Resulting From its use.
+# Please note that utilizing this algorithm for actual betting is not recommended. I do not assume any responsibility for the consequences or outcomes resulting from its use.
