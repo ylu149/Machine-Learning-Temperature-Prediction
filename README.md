@@ -28,7 +28,8 @@ The model's predictions are utilized for a strategic approach on the Kalshi Demo
 - Placing "no" bets on all options outside the predicted range.
 
 ## Installation and Usage
-
-Simply open the Google Collab notebook, and follow the instructions for loading the training data. 
+1. Download the ML_30_data.zip file and unzip it.
+2. Open the Google Collab notebook, and follow the instructions for loading the training data.
+3. Run each block of code in the Collab notebook as desired. 
 
 # Please note that utilizing this algorithm for actual betting is not recommended. I do not assume any responsibility for the consequences or outcomes resulting from its use.
