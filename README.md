@@ -13,14 +13,14 @@ The model is built using the following five features:
 - **Dew Point:** Another factor for predicting precipitation and weather patterns.
 - **Wind Speed:** To consider the effects of wind chill on temperature readings.
 
-### Basic Regression Analysis
+### Basic Regression Analysis [Basic Regression](ML_Weather.ipynb)
 
 The model applies three types of regression analysis methods:
 - L1 Regression
 - L2 Regression
 - Linear Regression
 
-### Neural Network Regression Analysis [MLPNeuralNetwork_Weather_Prediction.ipynb](MLPNeuralNetwork_Weather_Prediction.ipynb)
+### Neural Network Regression Analysis [Nerual Network Based Regression](MLPNeuralNetwork_Weather_Prediction.ipynb)
 - Neural Network Based Regression (MLPRegressor)
 
 ## Kalshi Purchase Strategy
