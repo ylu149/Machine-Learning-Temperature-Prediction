@@ -19,7 +19,7 @@ The model applies three types of regression analysis methods:
 - L1 Regression
 - L2 Regression
 - Linear Regression
-- Neural Network Based regression (MLPRegressor)
+- Neural Network Based Regression (MLPRegressor) [MLPNeuralNetwork_Weather_Prediction.ipynb](MLPNeuralNetwork_Weather_Prediction.ipynb)
 
 ## Kalshi Purchase Strategy
 
