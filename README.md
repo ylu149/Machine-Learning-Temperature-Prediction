@@ -19,6 +19,7 @@ The model applies three types of regression analysis methods:
 - L1 Regression
 - L2 Regression
 - Linear Regression
+- Neural Network Based regression (MLPRegressor)
 
 ## Kalshi Purchase Strategy
 
