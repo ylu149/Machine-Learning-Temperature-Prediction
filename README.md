@@ -35,4 +35,4 @@ The model's predictions are utilized for a strategic approach on the Kalshi Demo
 2. Open the Google Collab notebook, and follow the instructions for loading the training data.
 3. Run each block of code in the Collab notebook as desired. 
 
-# Please note that utilizing this algorithm for actual betting is not recommended. I do not assume any responsibility for the consequences or outcomes resulting from its use.
+# Please note that utilizing this algorithm for actual betting is not recommended. I AM NOT LIABLE FOR ANY OUTCOMES FROM IT'S USE. USE AT YOUR OWN RISK!
